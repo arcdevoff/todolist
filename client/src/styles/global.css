@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  background-color: var(--color-stone-950);
+  margin-bottom: 2rem;
+}
+
+a {
+  color: var(--color-blue-500);
+}
+
+a:hover {
+  color: var(--color-blue-300);
+}
