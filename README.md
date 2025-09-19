@@ -1,3 +1,5 @@
+![screen](https://arcdevoff.site/portfolio/todolist.png)
+
 # 📝 Todo List App
 
 A full-stack Todo List application built with **TypeScript**, **NestJS**, **Prisma**, **PostgreSQL**, and **Vite (React)**.  
@@ -5,7 +7,7 @@ Features user authentication with **JWT**, task management, and secure API integ
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Stack
 
 - **Frontend**: Vite + React + TailwindCSS
 - **Backend**: NestJS (TypeScript)
