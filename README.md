@@ -1,4 +1,4 @@
-![screen](https://arcdevoff.site/portfolio/todolist.png)
+![screen](https://arcdevoff.site/portfolio/todolist.png?upd)
 
 # 📝 Todo List App
 
